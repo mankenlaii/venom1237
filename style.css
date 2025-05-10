@@ -1,0 +1,42 @@
+.card1 {
+    display: flex;
+    justify-content: baseline;
+}
+
+
+.textcard {
+   padding: 40px; 
+   width: 175px;
+   height: 73;
+}
+
+.bye {
+width:194px ;
+height: 57px;
+color: white;
+background-color: black;
+border-radius: 45px;
+font-size: 30px;
+}
+
+.card2 {
+    display: flex;
+    justify-content: baseline;
+}
+
+.textcard2 {
+    padding: 40px; 
+    width: 175px;
+    height: 73;
+ }
+
+ .card3 {
+    display: flex;
+    justify-content: baseline;
+}
+
+.textcard3 {
+    padding: 40px; 
+    width: 175px;
+    height: 73;
+ }
